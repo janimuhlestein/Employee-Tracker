@@ -76,7 +76,7 @@ const runApp = ()=> {
     } else if(answer.optionSelect === 'Add An Employee') {
         returnRoleTitles().then(results=>{
            roleList =  displayRoleTitles(results);
-           console.log(roleList);
+          // console.log(roleList);
         }).then(returnManagerNames().then(results=>{
             managerList = displayManagerNames(results);
             return inquirer.prompt([

@@ -25,7 +25,7 @@ When the user selects exit, the application quits. Up until then, the applicatio
 ![addEmployee](https://user-images.githubusercontent.com/52082187/96411901-77f94400-11a6-11eb-810b-b2846bad2769.jpg)
 
 # GIF of tool in use
-https://drive.google.com/file/d/1LGImRCn-DARskDd7QWOthkgez24sfcAF/view
+https://drive.google.com/file/d/1xTTgG8IIenrlBWg91JynpRxZ4ey658GF/view
 
 
 
