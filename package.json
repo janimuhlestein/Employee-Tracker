@@ -1,0 +1,31 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "An employee tracking application",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janimuhlestein/Employee-Tracker.git"
+  },
+  "author": "Jani Muhlestein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janimuhlestein/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/janimuhlestein/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "jest": "^26.5.3",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "node": "^14.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
